@@ -9,16 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * Today: Ph.D in Computer Vision: Visual SLAM for Underwater Vehicles, ONERA - DTIS / LIRMM - CNRS   
         (Under the supervision of: Dr. Vincent Creuze, Dr. Julien Moras and Dr. Pauline Trouvé-Peloux)
 * 2016: Graduated in Computer Science - Electrical Engineering from the Engineering School Polytech Annecy-Chambéry
 * 2015: Exchange Semester at San Diego State University - California
 * 2013: Achieved Preparatory Classes, Polytech Orléans
 
-Work experience
-======
+## Work experience
 * Summer 2016: Research Intern at ONERA - DTIS
   * Internship about multi-modal 3D modeling for autonomous drones and robots
   * Fusion of an infrared camera with a stereo camera
@@ -29,8 +27,7 @@ Work experience
   * Internship about biometric authentication
   * Integration of the fingerprint authentication thechnology within the Windows Biometric Framework
   
-Skills
-======
+## Skills
 * Computer Vision, SLAM, 3D reconstruction, Image Processing
 * Signal Processing, Multi-sensors fusion, Kalman filters
 * Programming:
@@ -40,8 +37,7 @@ Skills
 * Embedded systems: Arduino, ARM, Jetson Tegra
 * Operating systems: Unix environments, Ubuntu, Windows
   
-Hobbies
-======
+## Hobbies
 * Moutain sports: Skiing, Snowboarding, Hiking
 * Travelling
 * Highly interested by new technologies
