@@ -27,6 +27,9 @@ Our paper "Fast Stereo Disparity Maps Refinement By Fusion of Data-Based And Mod
 ### July:
 I will visit Oussama Khatib's team in Stanford to equip OceanOne with our vision-based SLAM system! ([link](http://khatib.stanford.edu/))
 
+### April:
+I have received the ONERA's best PhD thesis award! ([link](https://www.onera.fr/fr/rejoindre-onera/prix-des-doctorants))
+
 ### Februrary:
 Our journal paper "Monocular Visual Odometry for Turbid and Dynamic Underwater Environments" has been accepted! ([paper](https://www.mdpi.com/1424-8220/19/3/687))
 
