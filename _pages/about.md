@@ -21,8 +21,14 @@ News
 
 ## 2019
 
+### September:
+Our paper "Fast Stereo Disparity Maps Refinement By Fusion of Data-Based And Model-Based Estimations" has been accepted at 3DV-2019! (Oral) ([link](http://3dv19.gel.ulaval.ca/program.html))
+
+### July:
+I will visit Oussama Khatib's team in Stanford to equip OceanOne with our vision-based SLAM system! ([link](http://khatib.stanford.edu/))
+
 ### Februrary:
-Our journal paper on Visual Odometry for Turbid and Dynamic Underwater Environments has been accepted! ([paper](https://www.mdpi.com/1424-8220/19/3/687))
+Our journal paper "Monocular Visual Odometry for Turbid and Dynamic Underwater Environments" has been accepted! ([paper](https://www.mdpi.com/1424-8220/19/3/687))
 
 ### Februrary:
 I will present my work on underwater localization at ONERA PhD students day.
