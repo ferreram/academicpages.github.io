@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/aqualoc_icra
 excerpt: ''
 date: 2018-06-14
-venue: 'ICRA'
+venue: 'IROS Workshop-New Horizons for Underwater Intervention Missions: from Current Technologies to Future Applications'
 paperurl: ''
 ---
 
