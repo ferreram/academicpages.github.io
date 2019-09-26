@@ -22,6 +22,9 @@ News
 ## 2019
 
 ### September:
+Our journal paper "AQUALOC: An Underwater Dataset for Visual-Inertial-Pressure Localization" has been accepted in the International Journal of Robotics Research (IJRR)! (paper coming soon)
+
+### September:
 Our paper "Fast Stereo Disparity Maps Refinement By Fusion of Data-Based And Model-Based Estimations" has been accepted at 3DV 2019! (Oral) ([link](http://3dv19.gel.ulaval.ca/program.html))
 
 ### July:
