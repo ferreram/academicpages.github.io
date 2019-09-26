@@ -31,7 +31,7 @@ Our paper "Fast Stereo Disparity Maps Refinement By Fusion of Data-Based And Mod
 I will visit Oussama Khatib's team in Stanford to equip OceanOne with our vision-based SLAM system! ([link](http://khatib.stanford.edu/))
 
 ### April:
-I have received the ONERA's best PhD thesis award! ([link](https://www.onera.fr/fr/rejoindre-onera/prix-des-doctorants))
+I have received ONERA's best PhD thesis award! ([link](https://www.onera.fr/fr/rejoindre-onera/prix-des-doctorants))
 
 ### Februrary:
 Our journal paper "Monocular Visual Odometry for Turbid and Dynamic Underwater Environments" has been accepted! ([paper](https://www.mdpi.com/1424-8220/19/3/687))
@@ -43,14 +43,19 @@ I will present my work on underwater localization at ONERA PhD students day.
 
 ### October:
 I will give a talk at [MOQESM'2018](https://www.ensta-bretagne.fr/moqesm2018/) about vision-based SLAM methods for underwater vehicles.
+
 ### October:
 I will be at [IROS](https://www.iros2018.org/) to present the [Aqualoc Dataset](http://www.lirmm.fr/aqualoc/) at the occasion of the workshop about [New Horizons for Underwater Intervention Missions: from Current Technologies to Future Applications](http://irosworkshop.marinerobotics.eu/) ([paper](https://arxiv.org/pdf/1809.07076.pdf)).
+
 ### September:
 We are among the winners of the ECCV 2018 [3DRMS Challenge](http://trimbot2020.webhosting.rug.nl/events/3drms/challenge/)!  Checkout the [discussion paper](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Tylecek_The_Second_Workshop_on_3D_Reconstruction_Meets_Semantics_Challenge_Results_ECCVW_2018_paper.pdf) for detailed results on this 3D Semantic Reconstruction challenge.
+
 ### May:
 I have been accepted for an oral presentation at [RFIAP'18](https://rfiap2018.ign.fr/programmes) ([paper](https://rfiap2018.ign.fr/sites/default/files/ARTICLES/RFIAP_2018/RFIAP_2018_Ferrera_Odometrie.pdf),[slides](https://ferreram.github.io/files/slides_rfiap_18_maxime_ferrera.pdf)).
+
 ### March:
 I will give a talk at the occasion of a day on Cultural Heritage organized by the [GdR ISIS](http://www.gdr-isis.fr/index.php?page=reunion&idreunion=353).
+
 ### February:
 I will present my work on underwater localization at ONERA PhD students day.
 
@@ -58,10 +63,13 @@ I will present my work on underwater localization at ONERA PhD students day.
 
 ### November:
 I will present results on underwater localization at the occasion of a day on marine robotics organized by the [GdR Robotique](http://www.isir.upmc.fr/index.php?op=view_page&id=1473&menuid=17&lang=fr).
+
 ### November:
 I will give a talk about Visual SLAM for ROVs at the [JJCR'17](https://jjcr2017.sciencesconf.org/resource/page/id/8).
+
 ### June:
 I will present a poster on monocular SLAM applied to underwater environments at [ORASIS'17](https://orasis2017.sciencesconf.org/program).
+
 ### January:
 I will present my work on underwater localization at ONERA PhD students day.
 
