@@ -5,7 +5,7 @@ permalink: /publication/aqualoc_iros
 excerpt: ''
 date: 2018-06-14
 venue: 'IROS Workshop-New Horizons for Underwater Intervention Missions: from Current Technologies to Future Applications'
-paperurl: ''
+paperurl: 'https://arxiv.org/pdf/1809.07076.pdf'
 ---
 
 [Access paper here](https://arxiv.org/pdf/1809.07076.pdf)
