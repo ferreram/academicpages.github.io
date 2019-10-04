@@ -20,5 +20,3 @@ Please cite as:
   booktitle={IROS Workshop-New Horizons for Underwater Intervention Missions: from Current Technologies to Future Applications},
   year={2018}
 }
-
-</code>
