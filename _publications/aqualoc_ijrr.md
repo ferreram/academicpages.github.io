@@ -18,5 +18,3 @@ Please cite as:
   booktitle={The International Journal of Robotics Research},
   year={2019}
 }
-
-</code>
