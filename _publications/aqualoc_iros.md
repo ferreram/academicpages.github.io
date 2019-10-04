@@ -1,7 +1,7 @@
 ---
 title: "The Aqualoc Dataset: Towards Real-Time Underwater Localization from a Visual-Inertial-Pressure Acquisition System"
 collection: publications
-permalink: /publication/aqualoc_icra
+permalink: /publication/aqualoc_iros
 excerpt: ''
 date: 2018-06-14
 venue: 'IROS Workshop-New Horizons for Underwater Intervention Missions: from Current Technologies to Future Applications'
