@@ -12,7 +12,7 @@ paperurl: 'https://hal.archives-ouvertes.fr/hal-01866616/document'
 
 Please cite as:
 
-<code>@inproceedings{ferrera2018rfiap,
+<code>@inproceedings{ferrera2017orasis,
   title={Localisation autonome basée vision d'un robot sous-marin et cartographie de précision},
   author={Ferrera, Maxime and Moras, Julien and Trouv{\'e}-Peloux, Pauline and Creuze, Vincent},
   booktitle={ORASIS},
