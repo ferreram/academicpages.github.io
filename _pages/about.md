@@ -22,10 +22,10 @@ News
 ## 2019
 
 ### September:
-Our journal paper "AQUALOC: An Underwater Dataset for Visual-Inertial-Pressure Localization" has been accepted in the International Journal of Robotics Research (IJRR)! (paper coming soon)
+Our journal paper "AQUALOC: An Underwater Dataset for Visual-Inertial-Pressure Localization" has been accepted in the International Journal of Robotics Research (IJRR)! (_to appear_)
 
 ### September:
-Our paper "Fast Stereo Disparity Maps Refinement By Fusion of Data-Based And Model-Based Estimations" has been accepted at 3DV 2019! (Oral) ([link](http://3dv19.gel.ulaval.ca/program.html))
+Our paper "Fast Stereo Disparity Maps Refinement By Fusion of Data-Based And Model-Based Estimations" has been accepted at 3DV 2019! (Oral) ([link](http://3dv19.gel.ulaval.ca/program.html)) (_to appear_)
 
 ### July:
 I will visit Oussama Khatib's team in Stanford to equip OceanOne with our vision-based SLAM system! ([link](http://khatib.stanford.edu/))
