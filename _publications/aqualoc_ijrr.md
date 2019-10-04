@@ -12,7 +12,7 @@ paperurl: ''
 
 Please cite as:
 
-<code>@inproceedings{ferrera2019deeprefinement,
+<code>@inproceedings{ferrera2019aqualocijrr,
   title={AQUALOC: An Underwater Dataset for Visual-Inertial-Pressure Localization},
   author={Ferrera, Maxime and Creuze, Vincent and Moras, Julien and Trouv{\'e}-Peloux, Pauline},
   booktitle={The International Journal of Robotics Research},
