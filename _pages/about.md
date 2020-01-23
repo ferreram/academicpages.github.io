@@ -21,8 +21,11 @@ News
 
 ## 2019
 
+### December:
+I have successfully defended my PhD thesis!  Special thanks to Prof. Oussama Khatib, Prof. Rafael Garcia, Prof. Luc Jaulin, Prof. David Filliat and Dr. Michel L'Hour for being part of my thesis committee. (PDF to come)(Slides to come)
+
 ### September:
-Our journal paper "AQUALOC: An Underwater Dataset for Visual-Inertial-Pressure Localization" has been accepted in the International Journal of Robotics Research (IJRR)! (_to appear_)
+Our journal paper "AQUALOC: An Underwater Dataset for Visual-Inertial-Pressure Localization" has been accepted in the International Journal of Robotics Research (IJRR)! ([AQUALOC dataset](http://www.lirmm.fr/aqualoc/))([paper](https://arxiv.org/abs/1910.14532))
 
 ### September:
 Our paper "Fast Stereo Disparity Maps Refinement By Fusion of Data-Based And Model-Based Estimations" has been accepted at 3DV 2019! (Oral) ([link](http://3dv19.gel.ulaval.ca/program.html)) ([paper](https://hal.archives-ouvertes.fr/hal-02326896))
