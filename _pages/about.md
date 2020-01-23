@@ -22,7 +22,7 @@ News
 ## 2019
 
 ### December:
-I have successfully defended my PhD thesis!  Special thanks to Prof. Oussama Khatib, Prof. Rafael Garcia, Prof. Luc Jaulin, Prof. David Filliat and Dr. Michel L'Hour for being part of my thesis committee. (PDF to come)(Slides to come)
+I have successfully defended my PhD thesis!  Special thanks to Prof. Oussama Khatib, Prof. Rafael Garcia, Prof. Luc Jaulin, Prof. David Filliat and Dr. Michel L'Hour for being part of my thesis committee. (PDF to come)([slides](https://github.com/ferreram/ferreram.github.io/blob/master/files/slides_phd_defense_online_version_compressed.pdf))
 
 ### September:
 Our journal paper "AQUALOC: An Underwater Dataset for Visual-Inertial-Pressure Localization" has been accepted in the International Journal of Robotics Research (IJRR)! ([AQUALOC dataset](http://www.lirmm.fr/aqualoc/))([paper](https://arxiv.org/abs/1910.14532))
