@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Maxime Ferrera"
   avatar           : "profile.png"
-  bio              : "I am a PhD student at ONERA and LIRMM.  My PhD thesis deals with the challenge of self-localization for underwater vehicles used for archaeological operations.  In this context, my research focuses on applying visual SLAM in an underwater environment."
-  location         : "ONERA - LIRMM"
+  bio              : "I am a postdoctoral research scientist at ONERA. My research interests lie in Computer Vision, SLAM, 3D Reconstruction and Machine Learning."
+  location         : "ONERA - DTIS - IVA"
   employer         :
   googlescholar    : "https://scholar.google.fr/citations?user=Ftxozj0AAAAJ&hl=fr"
   email            : "maxime.ferrera@onera.fr"
