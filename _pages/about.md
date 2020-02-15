@@ -10,11 +10,10 @@ redirect_from:
 
 About me
 ------
-I am a PhD student at ONERA and LIRMM. My research interests are Computer Vision, Robots Perception, Autonomous Robotics and Machine Learning.
 
-In the context of my thesis, my researches focus on visual SLAM, multi-sensors fusion and 3D reconstruction in the context of underwater robotics for archaeology.  The system providing the required sensors measurement and the computing unit to be embedded on underwater vehicles are also under development within this thesis.
+I am a postdoctoral research scientist at ONERA, The French Aerospace Lab.  My research interests lie in Computer Vision, SLAM, 3D Reconstruction and Machine Learning.
 
-This thesis is supervised by Dr. Vincent Creuze (LIRMM), Dr. Julien Moras (ONERA), Dr. Pauline Trouvé-Peloux (ONERA). 
+Before this, I was a PhD student at ONERA and LIRMM, working on vision-based localization and 3D mapping for underwater robotics. 
 
 News
 ----
