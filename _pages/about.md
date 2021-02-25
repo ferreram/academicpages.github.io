@@ -11,12 +11,27 @@ redirect_from:
 About me
 ------
 
-I am a postdoctoral research scientist at ONERA, The French Aerospace Lab.  My research interests lie in Computer Vision, SLAM, 3D Reconstruction and Machine Learning.
-
-Before this, I was a PhD student at ONERA and LIRMM, working on vision-based localization and 3D mapping for underwater robotics. 
+I am a research scientitst at IFREMER, Underwater Robotics Lab, La-Seyne-sur-mer, working on robotics perception and computer vision related problems.  
+Before that, I was a postdoctoral research scientist at ONERA, The French Aerospace Lab, working on visual SLAM and a PhD student at ONERA and LIRMM, working on vision-based localization and 3D mapping for underwater robotics.  My research interests lie in Computer Vision, SLAM, 3D Reconstruction and Machine Learning.
 
 News
 ----
+
+## 2021
+
+### February:
+Our paper "OV²SLAM: A Fully Online and Versatile Visual SLAM for Real-Time Applications" ([pdf](https://arxiv.org/pdf/2102.04060.pdf),[code](https://github.com/ov2slam/ov2slam)) has been accepted in Robotics and Automation Letters!
+
+## 2020
+
+### October:
+I have joined the Underwater Robotics Lab at Ifremer as a research scientist to work on robotics perception and computer vision related problems.
+
+### August:
+We ranked 3rd on the [CVPR'20 - TartanAir SLAM challenge](https://sites.google.com/view/vislocslamcvpr2020/slam-challenge) with [OV²SLAM](https://github.com/ov2slam/ov2slam)!
+
+### Janauary:
+I have joined the IVA team at ONERA as a postdoc to work on visual slam related problems.
 
 ## 2019
 
