@@ -19,6 +19,9 @@ News
 
 ## 2021
 
+### March:
+Our paper "OV²SLAM: A Fully Online and Versatile Visual SLAM for Real-Time Applications" ([pdf](https://arxiv.org/pdf/2102.04060.pdf),[code](https://github.com/ov2slam/ov2slam)) has been accepted for presentation at ICRA 2021!
+
 ### February:
 Our paper "OV²SLAM: A Fully Online and Versatile Visual SLAM for Real-Time Applications" ([pdf](https://arxiv.org/pdf/2102.04060.pdf),[code](https://github.com/ov2slam/ov2slam)) has been accepted in Robotics and Automation Letters!
 
